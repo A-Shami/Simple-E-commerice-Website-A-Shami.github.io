@@ -1,1 +1,0 @@
-# Simple-E-commerice-Website-A-Shami.github.io
