@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Simple-E-commerice-Website-A-Shami.github.io/static/css/main.387f8586.css",
-    "main.js": "/Simple-E-commerice-Website-A-Shami.github.io/static/js/main.ff2f9415.js",
+    "main.js": "/Simple-E-commerice-Website-A-Shami.github.io/static/js/main.d4ad0e6a.js",
     "static/js/787.8692bf70.chunk.js": "/Simple-E-commerice-Website-A-Shami.github.io/static/js/787.8692bf70.chunk.js",
     "index.html": "/Simple-E-commerice-Website-A-Shami.github.io/index.html",
     "main.387f8586.css.map": "/Simple-E-commerice-Website-A-Shami.github.io/static/css/main.387f8586.css.map",
-    "main.ff2f9415.js.map": "/Simple-E-commerice-Website-A-Shami.github.io/static/js/main.ff2f9415.js.map",
+    "main.d4ad0e6a.js.map": "/Simple-E-commerice-Website-A-Shami.github.io/static/js/main.d4ad0e6a.js.map",
     "787.8692bf70.chunk.js.map": "/Simple-E-commerice-Website-A-Shami.github.io/static/js/787.8692bf70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.387f8586.css",
-    "static/js/main.ff2f9415.js"
+    "static/js/main.d4ad0e6a.js"
   ]
 }
